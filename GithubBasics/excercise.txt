@@ -1,0 +1,16 @@
+1. Explain what the terminal is in your own words 
+
+It is a window that's attached to your computer operating system and you can use different commands to tell your computer what to do (Ex: Finding information, adding or deleting new files)
+
+2. What is the major difference between git and GitHub
+
+GitHub is a cloud-based hosting service and git is a version control system that lets you manage and keep track of your source code history. 
+
+3. Steps to fork a git hub repository. 
+
+	1. Navigate to your desired repository 
+	2. in the top right corner click fork 
+	3. under "Owner", select the dropdown menu and click an owner for the forked repository 
+	4. optionally you can add a repository name and description 
+	5. click fork 
+	6. Do a happy dance!! You have successfully forked your repository!
